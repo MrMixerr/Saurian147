@@ -5,7 +5,7 @@ Project is a free and open sourced [pure data]() powered synthesizer inspired by
 ## Features
 - 4 Drone Style Oscillator 
 - Basic Lowpass
-- Touchpad Panel
+- Midi Keybaord Oscillator
 - Stereo Audio Output
 
 
